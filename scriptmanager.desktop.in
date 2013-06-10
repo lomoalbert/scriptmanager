@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Scriptmanager
+_Comment=Scriptmanager application
+Categories=GNOME;Utility;
+Exec=scriptmanager
+Icon=scriptmanager
+Terminal=false
+Type=Application
