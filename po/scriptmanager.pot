@@ -23,52 +23,52 @@ msgstr ""
 
 #: ../scriptmanager.desktop.in.h:1 ../data/ui/ScriptmanagerWindow.ui.h:1
 msgid "Scriptmanager"
-msgstr ""
+msgstr "脚本管理器"
 
 #: ../scriptmanager.desktop.in.h:2
 msgid "Scriptmanager application"
-msgstr ""
+msgstr "脚本管理器"
 
 #: ../data/ui/PreferencesScriptmanagerDialog.ui.h:1
 msgid "Scriptmanager Preferences"
-msgstr ""
+msgstr "脚本管理器 首选项"
 
 #: ../data/ui/PreferencesScriptmanagerDialog.ui.h:2
 msgid "_Example entry:"
-msgstr ""
+msgstr "示例 输入"
 
 #: ../data/ui/ScriptmanagerWindow.ui.h:2
 msgid "_File"
-msgstr ""
+msgstr "文件"
 
 #: ../data/ui/ScriptmanagerWindow.ui.h:3
 msgid "_Edit"
-msgstr ""
+msgstr "编辑"
 
 #: ../data/ui/ScriptmanagerWindow.ui.h:4
 msgid "_View"
-msgstr ""
+msgstr "查看"
 
 #: ../data/ui/ScriptmanagerWindow.ui.h:5
 msgid "_Help"
-msgstr ""
+msgstr "帮助"
 
 #: ../data/ui/ScriptmanagerWindow.ui.h:6
 msgid "Contents"
-msgstr ""
+msgstr "内容"
 
 #: ../data/ui/ScriptmanagerWindow.ui.h:7
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 #: ../data/ui/ScriptmanagerWindow.ui.h:8
 msgid "Save as New"
-msgstr ""
+msgstr "另存为"
 
 #: ../data/ui/ScriptmanagerWindow.ui.h:9
 msgid "Delete"
-msgstr ""
+msgstr "删除"
 
 #: ../data/ui/ScriptmanagerWindow.ui.h:10
 msgid "Status Area"
-msgstr ""
+msgstr "地区状态"
